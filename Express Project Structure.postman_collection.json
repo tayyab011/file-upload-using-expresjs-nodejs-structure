@@ -1,0 +1,91 @@
+{
+	"info": {
+		"_postman_id": "21f1acf3-78c6-4250-bec0-82d684153662",
+		"name": "Express Project Structure",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "9518923",
+		"_collection_link": "https://planetary-escape-12290.postman.co/workspace/MERN7~83bac8ac-8f7f-4882-9082-8a9e37a32596/collection/9518923-21f1acf3-78c6-4250-bec0-82d684153662?action=share&source=collection_link&creator=9518923"
+	},
+	"item": [
+		{
+			"name": "createTask",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5050/api/createTask",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5050",
+					"path": [
+						"api",
+						"createTask"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "readTask",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5050/api/readTask",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5050",
+					"path": [
+						"api",
+						"readTask"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "updateTask",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5050/api/updateTask",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5050",
+					"path": [
+						"api",
+						"updateTask"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "deleteTask",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5050/api/deleteTask",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5050",
+					"path": [
+						"api",
+						"deleteTask"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

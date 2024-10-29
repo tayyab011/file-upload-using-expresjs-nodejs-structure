@@ -1,0 +1,36 @@
+1. Node is initiate
+2. Package.json
+3. Express js backend with packages
+    - yarn add express/ npm i express
+    - yarn add cookie-parser
+    - yarn add cors
+    - yarn add express-rate-limit
+    - yarn add helmet
+    - yarn add hpp
+    - yarn add jsonwebtoken
+    - yarn add mongoose
+    - yarn add nodemailer
+    - yarn add nodemon
+
+4. File Folder Structure
+    - config
+    - controllers
+    - middlewares
+    - models
+    - utility
+    - routes
+    - api routing
+    - storage
+
+5. app.js
+   - import applications all packages
+   - Global Application Middleware
+   - Rate Limiter
+   - Web Caching
+   - MongoDB connection
+   - Set API Routes
+   - Set Application Storage
+   - Run Your Express Back End Project
+
+
+6. Set Debugging

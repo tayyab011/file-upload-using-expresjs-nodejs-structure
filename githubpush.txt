@@ -1,0 +1,32 @@
+git remote set-url origin https://github.com/tayyab011/file-upload-using-expresjs-nodejs-structure.git
+git init
+git add .
+git commit -m "2 commit"
+git branch -M main
+git remote add origin https://github.com/tayyab011/file-upload-using-expresjs-nodejs-structure.git
+git push -u origin main
+
+
+
+Hey there,
+I am a frontend developer with 3 years of experience  in this field.Skilled in html, css, js,bootstrap,tailwindcss,reactjs,php,laravel,mysql  and much more. I am extremely passionate and enthusiastic  about my work.I am  very punctual and  do  all my projects in time.
+here is a link to my portfolio:
+https://mohammadtayyab1.netlify.app
+
+looking forward to hearing from you.
+
+Respectfully
+Md Tayyab
+
+
+Hey,
+Hope this finds you well. Here is what you asked for. If there are any further changes required regarding the codes please let me know.
+
+Thank you for your order.
+Looking forward to work with you again.
+
+
+
+
+
+
